@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there I'm Isaiah 👋
+### About me 
+
+
+### Things I'm interested in outside of engineering.
+
+
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=s75lhryyxi8mgdz53xf4iw8h6&count=7&width=1000)
 
 <!--
 **isaiahmartin847/isaiahmartin847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +19,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
