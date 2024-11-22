@@ -42,6 +42,7 @@ I'm currently a full-stack developer intern at Unibui, where I help college stud
 ### Things about me outside of coding
 - ⛰️ I love being outside in the wilderness.
 - 🏓 Pickleball is one of my favorite sport.
+- 🐧 All my computers run on ubuntu.
 - 🖨️ I tinker with 3D printers and love making things.
 - 🏞️ I live 2 hours away from the 6th most popular national park.
 - 🎧 I love all different types of music. Check out what I'm currently listening to ⬇️.
