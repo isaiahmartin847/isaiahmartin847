@@ -1,5 +1,5 @@
 ## Hey there I'm Isaiah 
-I'm currently a full-stack developer intern at Unibui, where I help college students find local jobs. My goal in life is to improve people's lives through code
+I'm currently a full-stack developer intern at Unibui, where I help college students find local jobs. My goal in life is to improve people's lives through coding.
 
 <h3>These are the technologies I use to achieve my goals.</h3>
 <p>
