@@ -25,6 +25,8 @@ I'm currently a full-stack developer intern at Unibui, where I help college stud
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-d71a00?style=flat-square&logo=python&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+
 
   <!-- Cloud Platforms -->
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080ff?style=flat-square&logo=digitalocean&logoColor=white" />
