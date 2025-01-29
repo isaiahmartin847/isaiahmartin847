@@ -50,7 +50,7 @@ I'm currently a full-stack developer intern at Unibui, where I help college stud
 
 
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=s75lhryyxi8mgdz53xf4iw8h6&count=7&width=1000)
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=s75lhryyxi8mgdz53xf4iw8h6&count=4&width=1000)
 
 <!--
 **isaiahmartin847/isaiahmartin847** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
