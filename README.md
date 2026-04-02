@@ -1,5 +1,5 @@
 ## Hey there I'm Isaiah 
-I'm a Founding AI full stack engineer at Offset.
+I'm a Founding AI Full Stack Engineer at Codent AI.
 
 
 
